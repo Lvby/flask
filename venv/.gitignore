@@ -5,7 +5,8 @@ venv/pyvenv.cfg
 bin/
 lib/
 include/
-
+*model.pkl
+model_columns.pkl
 *.egg-info/
 .pip-selfcheck.json
 *.pyvenv.cfg
