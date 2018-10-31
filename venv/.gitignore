@@ -1,7 +1,7 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
-/venv/pip-selfcheck.json
-/venv/pyvenv.cfg
+venv/pip-selfcheck.json
+venv/pyvenv.cfg
 bin/
 lib/
 include/
