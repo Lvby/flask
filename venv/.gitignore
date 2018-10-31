@@ -1,0 +1,11 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+/venv/pip-selfcheck.json
+/venv/pyvenv.cfg
+bin/
+lib/
+include/
+
+*.egg-info/
+.pip-selfcheck.json
+*.pyvenv.cfg
